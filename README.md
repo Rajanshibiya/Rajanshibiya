@@ -11,22 +11,6 @@
 - 🌟 Fun Fact: I love creating minimalist UI designs with **Figma**!
 
 ---
-
-### 🧑‍💼 Connect With Me:
-<p align="left">
-<a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
-</a>
-<a href="https://twitter.com/your-profile" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="40" height="40"/>
-</a>
-<a href="https://dev.to/your-profile" target="_blank" rel="noreferrer">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" width="40" height="40"/>
-</a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
