@@ -4,10 +4,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 Currently learning **Cloud Computing** and **DevOps Practices**.
+- 🌱 Currently learning **Programin Language** and **Develop System**.
 - 👯 Looking to collaborate on **open-source projects** and **challenging web applications**.
 - 💬 Ask me about **Fullstack Development**, **Azure**, and **.NET Technologies**.
-- 📫 How to reach me: **your_email@example.com**.
+- 📫 How to reach me: **rajanshibiya23@.com**.
 - 🌟 Fun Fact: I love creating minimalist UI designs with **Figma**!
 
 ---
